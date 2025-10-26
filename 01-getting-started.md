@@ -1,4 +1,4 @@
-# Getting Started with ZendFi - Accept Crypto in Minutes! 🚀
+# Getting Started with ZendFi - Accept Crypto in Minutes!
 
 Welcome to ZendFi! You're about to join the future of payments. This guide will get you accepting crypto payments in minutes - no blockchain experience needed. Let's make this super easy and fun!
 
@@ -15,7 +15,7 @@ Before we start, make sure you have:
   - A Solana wallet address (if you already have one), OR
   - A modern browser with Face ID/Touch ID for passkey setup (takes 5 seconds!)
 
-That's it! No complicated crypto setup required. Let's go! 🎉
+That's it! No complicated crypto setup required. Let's go!
 
 ---
 
@@ -62,12 +62,12 @@ Choose the wallet type that fits your needs! Each has its own superpowers.
 **Best for:** Merchants who want maximum security without managing seed phrases
 
 **Why we love it:**
-- 🔐 **Non-custodial**: You own the keys, always
-- 📱 **Secured by Face ID/Touch ID**: No passwords to remember!
-- 🚫 **No seed phrases**: No more writing down 12 words on paper
-- 🛡️ **MPC security**: Multi-party computation keeps you ultra-safe
-- 📤 **Can export anytime**: Full control when you need it
-- ⚡ **5-second setup**: Just one quick biometric scan
+- **Non-custodial**: You own the keys, always
+- **Secured by Face ID/Touch ID**: No passwords to remember!
+- **No seed phrases**: No more writing down 12 words on paper
+- **MPC security**: Multi-party computation keeps you ultra-safe
+- **Can export anytime**: Full control when you need it
+- **5-second setup**: Just one quick biometric scan
 
 ```json
 {

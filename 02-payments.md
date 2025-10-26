@@ -18,7 +18,7 @@ Welcome to the Payments API! This is where the magic happens. Accept one-time cr
 
 ## Create a Payment
 
-Create a one-time payment request in seconds! You'll get back a QR code and payment URL that you can show to your customer. They scan, approve, done!
+Create a one-time payment request in seconds! You'll get back a QR code and payment URL that you can show to your customer. They scan/connect, approve, done!
 
 ### Endpoint
 
@@ -522,10 +522,10 @@ Perfect for donations, tips, flexible pricing, or "pay what feels right" models.
 
 ### Validation Rules
 
-- ✅ `minimum_amount` is **required** when `allow_custom_amount` is `true`
-- ✅ `maximum_amount` must be greater than `minimum_amount` (if provided)
-- ✅ `suggested_amount` must be between `minimum_amount` and `maximum_amount`
-- ✅ `amount` field is ignored for display (but used as fallback)
+- `minimum_amount` is **required** when `allow_custom_amount` is `true`
+- `maximum_amount` must be greater than `minimum_amount` (if provided)
+- `suggested_amount` must be between `minimum_amount` and `maximum_amount`
+- `amount` field is ignored for display (but used as fallback)
 
 ### Use Cases
 
@@ -694,7 +694,7 @@ Merchant Wallet: 9yJKg3DX98h87TYKSDqcE6jCkhgTrB94UZSmKptgBsV
 
 ### Common Testing Scenarios
 
-#### Scenario 1: Successful Payment ✅
+#### Scenario 1: Successful Payment
 1. Create payment
 2. Copy QR code or payment URL
 3. Pay with devnet wallet
