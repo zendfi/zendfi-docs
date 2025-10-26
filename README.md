@@ -61,7 +61,7 @@ Secure, non-custodial wallets with passkey authentication. No seed phrases to ma
 | **Payment Links** | Reusable payment pages | ✅ Complete | [03-payment-links.md](./03-payment-links.md) |
 | **Webhooks** | Real-time event notifications | ✅ Complete | [04-webhooks.md](./04-webhooks.md) |
 | **Wallet Management** | MPC wallet operations | ✅ Complete | [05-wallet-management.md](./05-wallet-management.md) |
-| **Advanced Features** | Subscriptions, escrows, installments | 🚧 Coming Soon | [06-advanced-features.md](./06-advanced-features.md) |
+| **Advanced Features** | Subscriptions, escrows, installments | ✅ Complete | [06-advanced-features.md](./06-advanced-features.md) |
 
 ## Authentication
 
